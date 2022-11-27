@@ -1,0 +1,8 @@
+ES2015
+const PI = 3.14;
+
+//Quiz
+//1. var is a global scope and can be redeclared. let is block scope and cannot be redclared
+//2. var is a global scope and can be redeclared and reassigned. const is block scope and cannot be redclared or reassigned
+//3. let can be reassigned while const cannot
+//4. the JS acknowledges the existence of the variables at the start of whichever scope they inhabit 
